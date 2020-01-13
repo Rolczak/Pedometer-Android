@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Pedometer</string>
+    <string name="title_overview">Overview</string>
+    <string name="title_history">History</string>
+    <string name="title_settings">Settings</string>
+    <string name="NotifTitle">Pedometer</string>
+    <string name="steps">Steps:</string>
+    <string name="calories">Calories Burned</string>
+    <string name="distance">Distance</string>
+    <string name="settings">Settings</string>
+    <string name="stepLength">Step Length [cm]</string>
+    <string name="stepGoal">Step Goal</string>
+    <string name="weight">Weight [kg]</string>
+    <string name="save">Save</string>
+    <string name="cannotBeEmpty">Input cannot be empty</string>
+    <string name="wrongFormat">Wrong Input format</string>
+    <string name="stepsToGoal">Steps to goal: </string>
+    <string name="completeGoal"> Goal Completed. Congratulation!</string>
+    <string name="WIP">Not implemented in current version</string>
+    <string name="NotifSteps">steps</string>
+    <string name="Reset">Reset</string>
+    <string name="SettingSaved">Settings Saved</string>
+    <string name="Exit">Stop Application</string>
+</resources>
+

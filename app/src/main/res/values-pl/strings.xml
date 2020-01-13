@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Krokomierz</string>
+    <string name="NotifSteps">kroków</string>
+    <string name="NotifTitle">Krokomierz</string>
+    <string name="Reset">Resetuj</string>
+    <string name="SettingSaved">Ustawienia Zapisane</string>
+    <string name="WIP">Nie zaimplementowane w tej wersji</string>
+    <string name="calories">Spalone Kalorie</string>
+    <string name="cannotBeEmpty">Pole nie może być puste</string>
+    <string name="completeGoal">Cel osiągnięty. Gratulacje!</string>
+    <string name="distance">Dystans</string>
+    <string name="save">Zapisz</string>
+    <string name="settings">Ustawienia</string>
+    <string name="stepGoal">Cel kroków</string>
+    <string name="stepLength">Długość kroku [cm]</string>
+    <string name="steps">Kroki:</string>
+    <string name="stepsToGoal">Kroki do celu:</string>
+    <string name="title_history">Historia</string>
+    <string name="title_overview">Przegląd</string>
+    <string name="title_settings">Ustawienia</string>
+    <string name="weight">Waga [kg]</string>
+    <string name="wrongFormat">Zły format</string>
+    <string name="Exit">Zakończ działanie aplikacji</string>
+</resources>
