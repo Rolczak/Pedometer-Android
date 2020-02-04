@@ -4,6 +4,12 @@ Simple Pedometer made with android studio
 - Working as application and foreground service
 - Uses STEP_DETECTOR sensor
 - 2 languages English/Polish
+- should work on Android 8.0 and above
+- accelerometer is necessary to count steps
+
+# Tested on devices
+- Sony Xperia XZ with stock 8.0 and AOSP 10
+- One Plus 7 pro Android 10
 
 # Screnshots
 <p float="left">
