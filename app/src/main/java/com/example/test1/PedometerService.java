@@ -52,7 +52,6 @@ public class PedometerService extends Service implements SensorEventListener {
     {
 
             SharedPreferences preferences =  getApplicationContext().getSharedPreferences("Pedometer", Context.MODE_PRIVATE);
-            steps =  preferences.getInt("steps",0)+1;
             preferences.edit().putInt("steps",steps).apply();
             showNotification();
 
@@ -116,6 +115,8 @@ public class PedometerService extends Service implements SensorEventListener {
 
     @Override
     public void onSensorChanged(SensorEvent event) {
+        SharedPreferences preferences =  getApplicationContext().getSharedPreferences("Pedometer", Context.MODE_PRIVATE);
+        steps =  preferences.getInt("steps",0)+1;
         updateValue();
     }
 
